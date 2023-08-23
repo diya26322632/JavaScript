@@ -34,9 +34,9 @@ function listNFTs () {
 function getTotalSupply () {
   console.log ("\n" + NFTs.length);
 }
-mintNFT("Adidas" , "Blue" , "Hoodie" , "Gold Chain");
-mintNFT("Zara" , "White" , "Tshirt" , "Gold Chain");
-mintNFT("Wrogen" , "Grey" , "Tshirt" , "Gold Chain");
-mintNFT("Hilfiger" , "Black" , "Hoodie" , "Gold Chain");
+mintNFT("Diya" , "Blue" , "Hoodie" , "Gold Chain");
+mintNFT("Sakshi" , "White" , "shirt" , "Gold Chain");
+mintNFT("Priya" , "Grey" , "Top" , "Gold Chain");
+mintNFT("Hello" , "Black" , "Hoodie" , "Gold Chain");
 listNFTs();
 getTotalSupply();
