@@ -35,7 +35,7 @@ This function returns the total number of minted NFTs.
 
 ## Example
 javascript
-Copy code
+
 // Mint some NFTs
 mintNFT("Diya", "Blue", "Hoodie", "Gold Chain");
 mintNFT("Sakshi", "White", "Shirt", "Gold Chain");
