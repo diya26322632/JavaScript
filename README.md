@@ -1,4 +1,4 @@
-# NFT Minting Project
+#  gh
 
 This project demonstrates a basic implementation of minting and tracking Non-Fungible Tokens (NFTs) using JavaScript.
 
