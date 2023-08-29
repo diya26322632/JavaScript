@@ -3,12 +3,19 @@ This project demonstrates a simple implementation of minting and tracking Non-Fu
 
 ## Table of Contents
 Introduction
+
 Getting Started
+
 Usage
+
 Functions
+
 Example
+
 Contributing
+
 License
+
 ## Introduction
 This project showcases a basic implementation of minting NFTs and managing their metadata. The code includes functions to create NFT objects, list their metadata, and count the total number of minted NFTs.
 
