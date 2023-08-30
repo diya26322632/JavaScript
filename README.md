@@ -22,8 +22,8 @@ This project showcases a basic implementation of minting NFTs and managing their
 ## Getting Started
 To get started with this project, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/nft-minting-project.git
-Navigate to the project directory: cd nft-minting-project
+Clone the repository
+Navigate to the project directory
 ## Usage
 Open the index.html file in your browser.
 Open the browser's developer console to view logs.
