@@ -45,17 +45,17 @@ This function lists the metadata of all minted NFTs in the collection.
 This function returns the total number of minted NFTs.
 
 ## Example
-`javascript
+`javascript`
 
-// Mint some NFTs
-mintNFT("Diya", "Blue", "Hoodie", "Gold Chain");
-mintNFT("Sakshi", "White", "Shirt", "Gold Chain");
-mintNFT("Priya", "Grey", "Top", "Gold Chain");
-mintNFT("Hello", "Black", "Hoodie", "Gold Chain");
+`// Mint some NFTs`
+`mintNFT("Diya", "Blue", "Hoodie", "Gold Chain");`
+`mintNFT("Sakshi", "White", "Shirt", "Gold Chain");`
+`mintNFT("Priya", "Grey", "Top", "Gold Chain");`
+`mintNFT("Hello", "Black", "Hoodie", "Gold Chain");`
 
-// List all minted NFTs and get the total supply
-listNFTs();
-getTotalSupply();`
+`// List all minted NFTs and get the total supply`
+`listNFTs();`
+`getTotalSupply();`
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
