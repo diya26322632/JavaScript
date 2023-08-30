@@ -23,6 +23,7 @@ This project showcases a basic implementation of minting NFTs and managing their
 To get started with this project, follow these steps:
 
 Clone the repository
+
 Navigate to the project directory
 ## Usage
 Open the index.html file in your browser.
