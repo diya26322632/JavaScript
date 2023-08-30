@@ -48,13 +48,19 @@ This function returns the total number of minted NFTs.
 `javascript`
 
 `// Mint some NFTs`
+
 `mintNFT("Diya", "Blue", "Hoodie", "Gold Chain");`
+
 `mintNFT("Sakshi", "White", "Shirt", "Gold Chain");`
+
 `mintNFT("Priya", "Grey", "Top", "Gold Chain");`
+
 `mintNFT("Hello", "Black", "Hoodie", "Gold Chain");`
 
 `// List all minted NFTs and get the total supply`
+
 `listNFTs();`
+
 `getTotalSupply();`
 
 ## Contributing
